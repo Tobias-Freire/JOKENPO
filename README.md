@@ -3,8 +3,8 @@ ROCK PAPER SCISSORS IN PYTHON
 
 I did a simple rock paper scissors game in python just to make my first repository here in github :)
 
-Well, talking a bit about the code (ps: i'm brazillian so the variables in the code are actually in portuguese) : <br />
-Lines <br />
+Well, talking a bit about the code (ps: i'm brazillian so the variables in the code are actually in portuguese) : <br /> <br />
+Lines <br /> 
     1 - imported module random <br />
     3 - created a list called opcoes (options) with the itens pedra, papel and tesoura (rock, paper, scissors) <br />
     5 - created a variable called computador (computer) wich, by the function choice() from the module random, receives a aleatory item from the list opcoes <br />
